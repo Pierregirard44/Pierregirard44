@@ -2,12 +2,18 @@
 
 ## Some informations about me
 ### My name is Pierre, and I am a web developer student at Ada tech school
-🤓 I'm in the middle of a career change after nearly 15 years in the optics industry.;   
+🤓 I'm in the middle of a career change after nearly 15 years in the optics industry;  
+
 🌱 I learn to work with different languages, frameworks and tools throughout group projects with the Agile methodology as well as through more personal projects;  
-📖 I am looking for a 12 months internship in Nantes (France) starting on February 12th 2024;  
+
+📖 I am looking for a 12 months internship in Nantes (France) starting on February 12th 2024;
+
 🎲 I have been a gamemaster (GM) for twenty years and love putting all my creativity at the service of others;
+
 📋 My soft skills are mainly my adaptability, my creativity, my curiosity and my sociability;
-😸 Fun fact : i'm an eternal GM, nerver be a player... looking for someone to replace me ?
+
+😸 Fun fact : i'm an eternal GM, nerver be a player... looking for someone to replace me ?;
+
 📫 Reach me on my [LinkedIn](https://www.linkedin.com/in/pierre-girard-468214246/) or by sending an email at girard_pierre@hotmail.fr
 
 
